@@ -48,3 +48,14 @@ textarea {
     color: white;
     background-color: #c2aaba;
 }
+
+table td {
+    text-align: left; 
+    width: 150px;
+}
+
+.options {
+    display: inline-block; 
+    vertical-align: top; 
+    margin: 18px 0;
+}
